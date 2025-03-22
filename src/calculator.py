@@ -1,4 +1,3 @@
-```python
 def calculator():
     while True:
         try:
@@ -32,4 +31,3 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
-```
